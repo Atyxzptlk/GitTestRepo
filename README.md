@@ -1,5 +1,5 @@
 # GitTest
 
 Commit Tarihi: 17 Nisan 2025
-Commit Saati: 00:00
-Commit Adı: İlk commit
+Commit Saati: 23:42
+Commit Adı: Commit 2- Updated
